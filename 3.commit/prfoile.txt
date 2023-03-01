@@ -1,2 +1,2 @@
-email : 
-gitID : 
+email : gmlwn0485@jbnu.ac.kr
+gitID : HEEJU1357
