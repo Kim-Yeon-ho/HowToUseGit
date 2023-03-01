@@ -1,2 +1,2 @@
-email : 
-gitID : 
+email :20subi@jbnu.ac.kr 
+gitID : s0obee
