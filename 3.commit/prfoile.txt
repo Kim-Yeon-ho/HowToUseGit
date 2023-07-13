@@ -1,8 +1,2 @@
-
-email : gmlwn0485@jbnu.ac.kr
-gitID : HEEJU1357
-
-
-email :20subi@jbnu.ac.kr 
-gitID : s0obee
-
+email : dusgh153@jbnu.ac.kr
+gitID : KIM-YEON_HO
