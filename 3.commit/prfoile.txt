@@ -1,2 +1,2 @@
-email :
-gitID :
+email : dusgh15378@gmail.com
+gitID : KIM-YEON-HO
