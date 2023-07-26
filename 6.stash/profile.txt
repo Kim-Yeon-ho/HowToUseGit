@@ -1,2 +1,2 @@
-email : 이메일을 다시 작성해주세요
+email : email@gmail.com
 gitID : 깃아이디를 입력해주세요
